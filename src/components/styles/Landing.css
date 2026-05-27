@@ -218,8 +218,8 @@
 }
 h2.landing-info-h2 {
   color: #c481ff;
-  font-size: 42px;
-  width: 120%;
+  font-size: 38px;
+  width: auto;
   margin: 0;
   font-family: "Geist", sans-serif;
   font-weight: 600;
@@ -262,11 +262,11 @@ h2.landing-info-h2 {
     line-height: 30px;
   }
   .landing-info h2 {
-    font-size: 35px;
-    line-height: 40px;
+    font-size: 30px;
+    line-height: 35px;
   }
   h2.landing-info-h2 {
-    font-size: 38px;
+    font-size: 32px;
   }
 }
 @media screen and (min-width: 768px) {
@@ -284,11 +284,11 @@ h2.landing-info-h2 {
     font-size: 25px;
   }
   .landing-info h2 {
-    font-size: 45px;
-    line-height: 42px;
+    font-size: 40px;
+    line-height: 38px;
   }
   h2.landing-info-h2 {
-    font-size: 55px;
+    font-size: 42px;
   }
 }
 @media screen and (min-width: 1025px) {
@@ -349,10 +349,10 @@ h2.landing-info-h2 {
     font-size: 35px;
   }
   .landing-info h2 {
-    font-size: 65px;
-    line-height: 62px;
+    font-size: 50px;
+    line-height: 52px;
   }
   h2.landing-info-h2 {
-    font-size: 75px;
+    font-size: 55px;
   }
 }
